@@ -33,8 +33,7 @@
    ```bash
    git clone https://github.com/seiji1997/React.git
 
-
-##  Reactとは？
+## Reactとは？
 
 Reactは、Facebookによって開発されたオープンソースのJavaScriptライブラリであり、ユーザーインターフェース（UI）を構築するために使用されます。主にシングルページアプリケーション（SPA）やモバイルアプリケーションの開発に利用
 
